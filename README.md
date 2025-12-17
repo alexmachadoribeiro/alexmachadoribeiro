@@ -1,10 +1,11 @@
 # Olá, Mundo! 👋🌎
 
 ## 👨‍💻 Meu status
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,html,css,portugol&locale=pt-br)](https://github.com/alexmachadoribeiro/github-readme-stats)
 
 ![alexmachadoribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmachadoribeiro&show_icons=true&theme=dark&locale=pt-br)
+
+[![alexmachadoribeiro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexmachadoribeiro)](https://github.com/alexmachadoribeiro/github-readme-stats)
 
 <!--
 **alexmachadoribeiro/alexmachadoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
