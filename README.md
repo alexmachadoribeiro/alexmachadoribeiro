@@ -2,7 +2,7 @@
 
 ## Minhas principais linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook)](https://github.com/alexmachadoribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,html)](https://github.com/alexmachadoribeiro/github-readme-stats)
 
 <!--
 **alexmachadoribeiro/alexmachadoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
