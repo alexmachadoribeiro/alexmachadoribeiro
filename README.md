@@ -1,8 +1,10 @@
 # Olá, Mundo! 👋🌎
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexmachadoribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmachadoribeiro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexmachadoribeiro&show_icons=true&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true" height="150" alt="languages graph"  />
+  </a>
 </div>
 
 ###
@@ -63,7 +65,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexmachadoribeiro.alexmachadoribeiro&"  />
 </div>
 
@@ -82,9 +84,9 @@
 ###
 
 ## 👨‍💻 Meu status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true)](https://github.com/alexmachadoribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![alexmachadoribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmachadoribeiro&show_icons=true&theme=dark&locale=pt-br&hide_border=true)
+![alexmachadoribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmachadoribeiro&show_icons=true&theme=dark&locale=pt-br&hide_border=true) -->
 
 <!--
 **alexmachadoribeiro/alexmachadoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
