@@ -3,7 +3,7 @@
 ## 🧑‍💻 Minhas principais linguagens
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true&layout=compact" alt="languages graph"  />
   </a>
 </div>
 
