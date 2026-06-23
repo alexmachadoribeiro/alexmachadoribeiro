@@ -2,7 +2,7 @@
 ⚠️⚠️ ATENÇÃO ⚠️⚠️<br><br>
 Estou de mudança de perfil do GitHub. A partir do dia 23/06/2026 estarei usando, de preferência, outro perfil. Portanto, caso queira continuar me seguindo, basta me adicionar no outro perfil:
 
-🪪 ### **[dev-alexmachado: https://github.com/dev-alexmachado](https://github.com/dev-alexmachado)**
+### 🪪 **[dev-alexmachado: https://github.com/dev-alexmachado](https://github.com/dev-alexmachado)**
 
 Abraços a todos! 👋<br>
 Vejo vocês no meu outro perfil!
